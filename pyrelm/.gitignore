@@ -1,0 +1,6 @@
+# FDS run products (regenerate with examples/*.py)
+examples/out/
+__pycache__/
+*.egg-info/
+build/
+dist/
